@@ -44,8 +44,7 @@ I am interested in :
 ---
 
 ## 📫 How to reach me
-- Email: [danielgamov1@gmail.com](mailto:danielgamov1@gmail.com)
-- 
+-📧 Email: [danielgamov1@gmail.com](mailto:danielgamov1@gmail.com)
 <!--
 **Daniel-Gamov/Daniel-Gamov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
