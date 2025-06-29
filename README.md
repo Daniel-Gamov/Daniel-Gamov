@@ -7,8 +7,11 @@
 
 
 I am interested in :
+
 🤖 I'm passionate about Artificial Intelligence – I want to learn more and build my own AI one day!
+
 🎮 I love creating games that people enjoy. I have tons of awesome ideas and love bringing them to life!
+
 🌐 I'm also interested in web development – I want to learn more and create cool, useful websites for the internet! I already know a little bit.
 
 📦 Working with:  
