@@ -12,7 +12,7 @@
 ---
 
 <details>
-<summary> ## More about me 🔍</summary>
+## <summary>More about me 🔍</summary>
 
 ## 🚀 What I Love
 
