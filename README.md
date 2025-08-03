@@ -2,10 +2,17 @@
 ## 👋 Hi, I'm Daniel Gamov!
 
 🎓 Young Python developer from Bulgaria 🇧🇬  
-💡 I enjoy building beginner-friendly apps, small games, and interesting experiments.  
-📚 Currently studying in the Python Fundamentals course at SoftUni.
+💡 I build small apps, games, and AI experiments using Python.  
+📚 Currently learning at SoftUni – Python Fundamentals  
+🤖 Interested in AI, game dev, and simulations that explore deep ideas  
+
+📁 Check out my projects below, and feel free to reach out if you want to build something together!  
+📧 danielgamov1@gmail.com
 
 ---
+
+<details>
+<summary>More about me 🔍</summary>
 
 ## 🚀 What I Love
 
