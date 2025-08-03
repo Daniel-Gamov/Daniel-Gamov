@@ -1,61 +1,66 @@
 
-##👋 Hi, I'm Daniel Gamov!
+## 👋 Hi, I'm Daniel Gamov!
 
-🎓 Young Python developer from Bulgaria  
-💻 I love building beginner-friendly apps and experiments!
-🎓 I'm currently learning at SoftUni's Fundamentals course! 
-
-
-I am interested in :
-
-🤖 I'm passionate about Artificial Intelligence – I want to learn more and build my own AI one day!
-
-🎮 I love creating games that people enjoy. I have tons of awesome ideas and love bringing them to life!
-
-🌐 I'm also interested in web development – I want to learn more and create cool, useful websites for the internet! I already know a little bit.
-
-📦 Working with:  
-- 🐍 Python (Tkinter, basic algorithms)
-- HTTP a litle
+🎓 Young Python developer from Bulgaria 🇧🇬  
+💡 I enjoy building beginner-friendly apps, small games, and interesting experiments.  
+📚 Currently studying in the Python Fundamentals course at SoftUni.
 
 ---
 
-😁 Searching for a motivated collab buddy? That’s ME :D !
+## 🚀 What I Love
 
-🎮 Whether it's game dev, AI, or python releted – I’m pumped to jump into projects and level up together!
-
-🤝 Let’s join forces and create something legendary! 🔥💡
+🤖 I'm learning about Artificial Intelligence and trying to understand it deeply — so I can build my own AI one day!  
+🎮 I love creating games and bringing fun ideas to life.  
+🌎 I'm also creating simulations and systems that help me grow in programming and explore the philosophy of how things work.
 
 ---
-## 🚀 My Projects
-| 🔧 Project Name | 💡 What it Does |
-|----------------|-----------------|
-| `Tkinker_progects` | Beginner GUI apps with music & math 🎵🧮 |
-| `SofUni_tasks_and_progects` | My coding journey through SoftUni 🔍📘 |
+
+## 🛠️ Skills
+
+### 🐍 Python:
+- **Tkinter** – GUI apps → [Tkinter Projects](https://github.com/Daniel-Gamov/Tkinker_progects)
+- **Basic algorithms** – things like:
+  - Sorting (e.g. bubble sort)
+  - Searching (e.g. binary search)
+  - Math logic (e.g. multiplication tables, factorials)
+  - Fibonacci, working with lists/dictionaries, text parsing
+- **Pygame** – I'm currently learning it and building a game project.
+
+### 🦾 AI:
+- I hold 2 certificates:  
+  - `AI for Data Analysis`  
+  - `AI for Education and Self-Education`  
+- I’m also studying AI at SoftUni and learning about prompts, logic, and human-like behavior.
+
+---
+
+## 🤝 Let's Collaborate!
+
+Looking for a motivated Python buddy? 😁  
+If you're into game dev, AI, or building cool apps – let’s learn together and create something legendary! 💥
+
+📩 Feel free to open an issue or message me here on GitHub.
+
+---
+
+## 📁 Projects
+
+| 🔧 Project Name             | 💡 Description                     |
+|----------------------------|-------------------------------------|
+| `Tkinter_projects`         | Beginner GUI apps with music & math 🎵🧠 |
+| `SoftUni_tasks_and_projects` | My coding journey at SoftUni 📘     |
+| `Python Fun Little Games`  | Small games and experiments 🎖️       |
 
 ---
 
 ## 📊 GitHub Stats
+
 ![Daniel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Daniel-Gamov&show_icons=true&theme=radical)
 
-## 🧠 Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-Gamov&layout=compact&theme=vision-friendly-dark)
 
 ---
 
-## 📫 How to reach me
--📧 Email: [danielgamov1@gmail.com](mailto:danielgamov1@gmail.com)
-<!--
-**Daniel-Gamov/Daniel-Gamov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📫 Contact Me
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📧 [danielgamov1@gmail.com](mailto:danielgamov1@gmail.com)
