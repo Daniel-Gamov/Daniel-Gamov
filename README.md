@@ -92,6 +92,4 @@ If you're into game dev, AI, or building cool apps – let’s learn together an
 </div>
 ---
 
-## 📫 Contact Me
 
-📧 [danielgamov1@gmail.com](mailto:danielgamov1@gmail.com)
