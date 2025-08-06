@@ -11,7 +11,7 @@
 
 ---
 <details>
-<summary>More about me 🔍</summary>
+<summary><h3><span style="color:#f39c12; font-size: 1.3em;">🔍 More about me</span></h3></summary>
 
 ## 🚀 What I Love
 
