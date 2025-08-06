@@ -61,10 +61,15 @@ If you're into game dev, AI, or building cool apps – let’s learn together an
 
 ## 📊 GitHub Stats
 
-![Daniel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Daniel-Gamov&show_icons=true&theme=radical)
+<div align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-Gamov&layout=compact&theme=vision-friendly-dark)
+  <img src="https://github-readme-stats.vercel.app/api?username=Daniel-Gamov&show_icons=true&theme=radical" alt="Daniel's GitHub Stats" />
 
+  <br/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-Gamov&layout=compact&theme=vision-friendly-dark" alt="Top Languages" />
+
+</div>
 ---
 
 ## 📫 Contact Me
