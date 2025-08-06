@@ -10,9 +10,23 @@
 📧 danielgamov1@gmail.com
 
 ---
+<style>
+summary {
+  font-size: 1.5em; /* уголемява текста */
+  color: #007BFF;   /* син цвят */
+  font-weight: bold;
+  cursor: pointer;
+}
+
+summary:hover {
+  color: #0056b3;   /* по-тъмен син при задържане */
+}
+</style>
 
 <details>
-<summary>More about me 🔍</summary>
+  <summary>More about me 🔍</summary>
+  <p>Here is some hidden information about me.</p>
+</details>
 
 ## 🚀 What I Love
 
