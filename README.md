@@ -10,9 +10,8 @@
 📧 danielgamov1@gmail.com
 
 ---
-
 <details>
-</details>more about me🔍</details>
+<summary>More about me 🔍</summary>
 
 ## 🚀 What I Love
 
