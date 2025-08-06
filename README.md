@@ -34,7 +34,6 @@
  **Tkinter** – GUI apps → [Tkinter Projects](https://github.com/Daniel-Gamov/Tkinker_progects)
  
  **Basic algorithms** – things like:
- 
    Sorting (e.g. bubble sort)
    Searching (e.g. binary search)
    Math logic (e.g. multiplication tables, factorials)
