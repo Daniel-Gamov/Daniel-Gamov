@@ -25,8 +25,7 @@
 
 <div align="center">
 
-<!-- 🔵 Горна вълна -->
-<img src="https://github.com/Daniel-Gamov/Daniel-Gamov/blob/main/waves/layered-waves-haikei.svg" width="100%" />
+
 
 <!-- 🟣 Box със съдържанието -->
 <div style="background-color:#111827; color:#e5e7eb; padding: 20px; border-radius: 15px; width: 90%; max-width: 800px; margin: 0 auto; box-shadow: 0 4px 10px rgba(0,0,0,0.4);">
@@ -50,8 +49,6 @@
 
 </div>
 
-<!-- 🔵 Долна вълна -->
-<img src="[https://raw.githubusercontent.com/Daniel-Gamov/assets/main/wave-bottom.svg](https://github.com/Daniel-Gamov/Daniel-Gamov/blob/main/waves/layered-waves-haikei%20(1).svg)" width="100%" />
 
 </div>
 ---
