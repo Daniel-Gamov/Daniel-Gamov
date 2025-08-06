@@ -12,7 +12,6 @@
 ---
 
 <details>
-  
 </details>more about me🔍</details>
 
 ## 🚀 What I Love
