@@ -23,7 +23,15 @@
 
 ## 🛠️ Skills
 
-### 🐍 Python:
+<div align="center">
+
+<!-- 🔵 Горна вълна -->
+<img src="https://github.com/Daniel-Gamov/Daniel-Gamov/blob/main/waves/layered-waves-haikei.svg" width="100%" />
+
+<!-- 🟣 Box със съдържанието -->
+<div style="background-color:#111827; color:#e5e7eb; padding: 20px; border-radius: 15px; width: 90%; max-width: 800px; margin: 0 auto; box-shadow: 0 4px 10px rgba(0,0,0,0.4);">
+
+### 🐍 <span style="color:#22d3ee">Python</span>:
 - **Tkinter** – GUI apps → [Tkinter Projects](https://github.com/Daniel-Gamov/Tkinker_progects)
 - **Basic algorithms** – things like:
   - Sorting (e.g. bubble sort)
@@ -32,12 +40,20 @@
   - Fibonacci, working with lists/dictionaries, text parsing
 - **Pygame** – I'm currently learning it and building a game project.
 
-### 🦾 AI:
+---
+
+### 🤖 <span style="color:#c084fc">AI</span>:
 - I hold 2 certificates:  
   - `AI for Data Analysis`  
   - `AI for Education and Self-Education`  
 - I’m also studying AI at SoftUni and learning about prompts, logic, and human-like behavior.
 
+</div>
+
+<!-- 🔵 Долна вълна -->
+<img src="[https://raw.githubusercontent.com/Daniel-Gamov/assets/main/wave-bottom.svg](https://github.com/Daniel-Gamov/Daniel-Gamov/blob/main/waves/layered-waves-haikei%20(1).svg)" width="100%" />
+
+</div>
 ---
 
 ## 🤝 Let's Collaborate!
