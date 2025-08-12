@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Daniel Gamov! , color: "#ffcc00"
+## 👋 Hi, I'm Daniel Gamov! 
 
 🎓 Young Python developer from Bulgaria 🇧🇬  
 💡 I build small apps, games, and AI experiments using Python.  
