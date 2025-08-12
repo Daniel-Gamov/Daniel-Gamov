@@ -1,5 +1,79 @@
 
-## 👋 Hi, I'm Daniel Gamov!
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Typewriter Animation</title>
+<style>
+  body {
+    background-color: #0d1117;
+    color: white;
+    font-family: monospace;
+    text-align: center;
+    padding-top: 50px;
+  }
+  #typewriter {
+    font-size: 28px;
+    font-weight: bold;
+    border-right: 3px solid white;
+    display: inline-block;
+    padding: 5px;
+    animation: blink 0.7s infinite;
+  }
+  @keyframes blink {
+    50% { border-color: transparent; }
+  }
+</style>
+</head>
+<body>
+
+<div id="typewriter"></div>
+
+<script>
+const messages = [
+    { text: "👋 Hi, I'm Daniel Gamov!", color: "#ffcc00" },
+    { text: "Welcome traveler!", color: "#00ffcc" },
+    { text: "Don't forget to visit my repositories!", color: "#ff66ff" },
+    { text: "I work with Python", color: "#66ff66" },
+    { text: "You can ask me about AI!", color: "#ff4444" }
+];
+
+let messageIndex = 0;
+let charIndex = 0;
+let deleting = false;
+let speed = 100;
+
+function typeEffect() {
+    const current = messages[messageIndex];
+    const display = document.getElementById("typewriter");
+    display.style.color = current.color;
+
+    if (!deleting) {
+        display.textContent = current.text.substring(0, charIndex + 1);
+        charIndex++;
+        if (charIndex === current.text.length) {
+            deleting = true;
+            speed = 150;
+            setTimeout(typeEffect, 1000); // пауза преди изтриване
+            return;
+        }
+    } else {
+        display.textContent = current.text.substring(0, charIndex - 1);
+        charIndex--;
+        if (charIndex === 0) {
+            deleting = false;
+            messageIndex = (messageIndex + 1) % messages.length;
+            speed = 100;
+        }
+    }
+    setTimeout(typeEffect, speed);
+}
+
+typeEffect();
+</script>
+
+</body>
+</html>
 
 🎓 Young Python developer from Bulgaria 🇧🇬  
 💡 I build small apps, games, and AI experiments using Python.  
